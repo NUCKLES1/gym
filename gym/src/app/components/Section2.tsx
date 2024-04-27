@@ -117,7 +117,7 @@ const Section2 = () => {
            </div>
            <div id="stag" className="gold w-full mt-5 text-center minus roundy h-[30%]">
             <p className="text-3xl pt-4 bold">+15</p>
-            <p className="bold">Expert Trainer</p>
+            <p className="bold">Expert Trainers</p>
            </div>
           </div>
         </div>
